@@ -24,7 +24,7 @@ Reads, classifies, and summarizes incoming Gmail — then decides whether to aut
 ## Demo
 
 <div align="center">
-<img src="assets/demo.gif" alt="AI Email Assistant Demo" width="100%"/>
+<img src="assets/demo.gif" alt="AI Email Assistant Demo" width="450"/>
 
 *Gmail fetch → AI classification → Sensitive masking → Telegram approval → Dashboard update*
 </div>

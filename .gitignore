@@ -34,3 +34,13 @@ build/
 # Python
 __pycache__/
 .pytest_cache/
+
+# Runtime state
+drafts/pending_edits.json
+
+# Assets source files (optional)
+*.mp4
+
+# Coverage
+.coverage
+htmlcov/
